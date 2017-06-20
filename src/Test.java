@@ -1,6 +1,9 @@
 import java.util.HashMap;
 import java.util.Map;
+/*
 
+ÄÚ²¿Àà²âÊÔ by wangxifeng
+*/
 
 public class Test {
 	private void testfunc1(Student student){
